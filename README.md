@@ -2,13 +2,17 @@
 
 Assignments from betasquirrel
 
+## Demo
+
+- [Live]()
+
 ## Tasks
 
-| Requirements               | Output                       |
-| -------------------------- | ---------------------------- |
-| [Task 1](image/task-1.jpg) | ![output 1](image/out-1.png) |
-| [Task 2](image/task-2.jpg) | ![output 2](image/out-2.png) |
-| [Task 4](image/task-4.jpg) | ![output 4](image/out-4.png) |
+| Requirements                | Output                       |
+| --------------------------  | ---------------------------- |
+| ![Task 1](image/task-1.jpg) | [Output 1](image/out-1.png) |
+| ![Task 2](image/task-2.jpg) | [Output 2](image/out-2.png) |
+| ![Task 4](image/task-4.jpg) | [Output 4](image/out-4.png) |
 
 ## Task 3
 
@@ -47,6 +51,7 @@ Read the below links and attend exercises.
 3. `git add` - Add your file changes to git. Ex: `git add .`, `git add README.md`
 4. `git commit` - Commit changes to git. Ex: `git commit -m "Initial commit"
 5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
+6. `git pull` - Pull updates your current local working branch. Ex: `git pull new-folder`
 
 ## Task 5
 
