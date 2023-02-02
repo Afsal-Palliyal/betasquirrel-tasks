@@ -4,7 +4,7 @@ Assignments from betasquirrel
 
 ## Demo
 
-- [Live]()
+- [Live](https://afsal-palliyal.github.io/betasquirrel-tasks/)
 
 ## Tasks
 
