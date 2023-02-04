@@ -10,9 +10,9 @@ Assignments from betasquirrel
 
 | Requirements                | Output                       |
 | --------------------------  | ---------------------------- |
-| ![Task 1](image/task-1.jpg) | [Output 1](image/out-1.png) |
-| ![Task 2](image/task-2.jpg) | [Output 2](image/out-2.png) |
-| ![Task 4](image/task-4.jpg) | [Output 4](image/out-4.png) |
+| ![Task 1](images/task-1.jpg) | ![Output 1](images/out-1.png) |
+| ![Task 2](images/task-2.jpg) | ![Output 2](images/out-2.png) |
+| ![Task 4](images/task-4.jpg) | ![Output 4](images/out-4.png) |
 
 ## Task 3
 
