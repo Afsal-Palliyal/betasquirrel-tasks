@@ -8,8 +8,8 @@ Assignments from betasquirrel
 
 ## Tasks
 
-| Requirements                | Output                       |
-| --------------------------  | ---------------------------- |
+| Requirements                 | Output                        |
+| ---------------------------- | ----------------------------- |
 | ![Task 1](images/task-1.jpg) | ![Output 1](images/out-1.png) |
 | ![Task 2](images/task-2.jpg) | ![Output 2](images/out-2.png) |
 | ![Task 4](images/task-4.jpg) | ![Output 4](images/out-4.png) |
