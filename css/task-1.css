@@ -10,12 +10,12 @@ body{
     justify-content: space-between;
 }
 #main-container{
-    background-color: #d1d8d1;
+    background-color: #C9CEE0;
     height: 200px;
     margin-bottom: 15px;
 }
 .boxes{
-    background-color: #d1d8d1;
+    background-color: #C9CEE0;
     height: 200px;
     width: calc((100% / 3) - 30px);
     float: left;

@@ -10,13 +10,18 @@ body{
     justify-content: space-between;
 }
 .boxes{
-    background-color: #81EB75;
+    background-color: #85DF7F;
     height: 160px;
     width: 30%;
-    float: left;
     margin-bottom: 20px;
     margin-top: 20px;
     padding: 15px;
+}
+.first{
+    float: left;
+}
+.second{
+    float: right;
 }
 .boxes h1 {
     margin-top: 0px;
@@ -90,12 +95,4 @@ div{
     color: #fff;
     padding: 0 20px;
     text-decoration: none;
-}
-.first{
-    background-color: greenyellow;
-    float: left;
-}
-.second{
-    background-color: greenyellow;
-    float: right;
 }
