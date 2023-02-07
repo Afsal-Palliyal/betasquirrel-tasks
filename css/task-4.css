@@ -1,173 +1,173 @@
 body {
-    margin: 0 auto;
-    background-color: #ECECEC;
+  margin: 0 auto;
+  background-color: #ececec;
 }
 #navbar {
-    background-color: #625C5C;
-    height: 70px;
-    border-bottom: 1px solid #ECECEC;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #625c5c;
+  height: 70px;
+  border-bottom: 1px solid #ececec;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-.left{
-    float: left;
-    display: flex;
+.left {
+  float: left;
+  display: flex;
 }
-.right{
-    float: right;
-    display: flex;
-    align-self: center;
+.right {
+  float: right;
+  display: flex;
+  align-self: center;
 }
 .right img {
-    height: 50px;
-    margin-top: 7px;
+  height: 50px;
+  margin-top: 7px;
 }
-.left img{
-    height: 50px;
-    margin-top: 7px;
-    margin-left: 15px;
-    margin-right: 5px;
+.left img {
+  height: 50px;
+  margin-top: 7px;
+  margin-left: 15px;
+  margin-right: 5px;
 }
-.left h2{
-    display: inline;
-    color: #fff;
+.left h2 {
+  display: inline;
+  color: #fff;
 }
 #tile-container h2 {
-    text-decoration: underline;
-    margin-top: 0;
+  text-decoration: underline;
+  margin-top: 0;
 }
 #tile-container p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    line-height: 30px;
-    font-size: 20px;
-    color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 30px;
+  font-size: 20px;
+  color: #fff;
 }
 .container {
-    height: calc(100vh - 71px);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: calc(100vh - 71px);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 #sidebar {
-    background-color: #625C5C;
-    height: calc(100vh - 71px);
-    float: left;
-    width: 200px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #625c5c;
+  height: calc(100vh - 71px);
+  float: left;
+  width: 200px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .side {
-   padding: 15px;
-   line-height: 25pt;
+  padding: 15px;
+  line-height: 25pt;
 }
 .side nav a {
-    color: #fff;
+  color: #fff;
 }
 .side nav a.active {
-    color: #4BA484;
-    text-decoration: none;
+  color: #4ba484;
+  text-decoration: none;
 }
 .green-bg {
-    background-color: #09CD82;
+  background-color: #09cd82;
 }
 .purple-bg {
-    background-color: #A259FF;
+  background-color: #a259ff;
 }
 .red-bg {
-    background-color: #F34E1E;
+  background-color: #f34e1e;
 }
 .cyan-bg {
-    background-color: #1CBBFD;
+  background-color: #1cbbfd;
 }
 .grey-bg {
-    background-color: #625E5F;
+  background-color: #625e5f;
 }
 .orange-bg {
-    background-color: #FF6E61;
+  background-color: #ff6e61;
 }
 .tile {
-    width: 311px;
-    height: 150px;
-    float: left;
-    margin-right: 15px;
-    margin-bottom: 80px;
+  width: 311px;
+  height: 150px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 80px;
 }
 #main {
-    padding: 15px 0 15px 15px;
-    overflow: hidden;
+  padding: 15px 0 15px 15px;
+  overflow: hidden;
 }
-.circle,.chart {
-    width: 311px;
-    height: 307.3px;
-    float: left;
-    margin-right: 15px;
+.circle,
+.chart {
+  width: 311px;
+  height: 307.3px;
+  float: left;
+  margin-right: 15px;
 }
 .circle,
 .inner-circle {
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .on {
-    width: 200px;
-    height: 200px;
-
+  width: 200px;
+  height: 200px;
 }
-.thre{
-    width: 100px;
-    height: 100px;
+.thre {
+  width: 100px;
+  height: 100px;
 }
-.on,.thre h2 {
-    color: white;
+.on,
+.thre h2 {
+  color: white;
 }
 .tw {
-    width: 280px;
-    height: 280px;
-    background-color: white;
+  width: 280px;
+  height: 280px;
+  background-color: white;
 }
 .fou {
-    width: 280px;
-    height: 280px;
-    background-color: #FF7163;
-
+  width: 280px;
+  height: 280px;
+  background-color: #ff7163;
 }
 .bar {
-    width: 15px;
-    position: absolute;
+  width: 15px;
+  position: absolute;
 }
 .chart {
-    position: relative;
-    display: block;
+  position: relative;
+  display: block;
 }
 .chart div {
-    bottom: 0;
+  bottom: 0;
 }
 .one {
-    left: 0;
-    height: calc(100% - 30px);
+  left: 0;
+  height: calc(100% - 30px);
 }
 .two {
-    left: 45px;
-    height: calc(100% - 150px);
+  left: 45px;
+  height: calc(100% - 150px);
 }
 .three {
-    left: 90px;
-    height: calc(100% - 120px);
+  left: 90px;
+  height: calc(100% - 120px);
 }
 .four {
-    left: 135px;
-    height: calc(100% - 210px);
+  left: 135px;
+  height: calc(100% - 210px);
 }
 .five {
-    left: 180px;
-    height: calc(100% - 80px);
+  left: 180px;
+  height: calc(100% - 80px);
 }
 .six {
-    left: 225px;
-    height: calc(100% - 240px);
+  left: 225px;
+  height: calc(100% - 240px);
 }
 .line {
-    width: 100%;
-    height: 15px;
-    background-color: #5F595B;
-    position: absolute;
+  width: 100%;
+  height: 15px;
+  background-color: #5f595b;
+  position: absolute;
 }
