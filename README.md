@@ -52,6 +52,7 @@ Read the below links and attend exercises.
 4. `git commit` - Commit changes to git. Ex: `git commit -m "Initial commit"
 5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
 6. `git pull` - Pull updates your current local working branch. Ex: `git pull new-folder`
+7. `git reset --hard` - To remove the changes except folders.
 
 ## Task 5
 
@@ -64,3 +65,16 @@ Read the below links and attend exercises.
 - [HTML Table Colspan & Rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
+
+## Notes
+
+- `rm -rf filename` - remove the file.
+- `ssh-keygen` - generate ssh file.
+- `position-fixed` - to fix an area static.
+- `vh` - viewport height.
+- `../` - to back a folder.
+- `source code` - hosting -> server.
+- `server`-GoDaddy,AWS,GCP,Azure - Cloud/Hosting Provider.
+- `IP address` - Purchase domain from domain registar.
+
+
