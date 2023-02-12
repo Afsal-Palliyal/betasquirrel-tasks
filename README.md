@@ -2,9 +2,11 @@
 
 Assignments from betasquirrel
 
-## Demo
+## Websites
 
-- [Live](https://afsal-palliyal.github.io/betasquirrel-tasks/)
+- [Demo](https://afsal-palliyal.github.io/betasquirrel-tasks/)
+- [Linkedin](https://www.linkedin.com/in/afsal-p-28775225a)
+- [stackoverflow](https://stackoverflow.com/users/21194134/afsal-p?tab=profile)
 
 ## Tasks
 
