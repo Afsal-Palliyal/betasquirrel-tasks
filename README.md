@@ -6,7 +6,7 @@ Assignments from betasquirrel
 
 - [Demo](https://afsal-palliyal.github.io/betasquirrel-tasks/)
 - [Linkedin](https://www.linkedin.com/in/afsal-p-28775225a)
-- [stackoverflow](https://stackoverflow.com/users/21194134/afsal-p?tab=profile)
+- [Stack Overflow](https://stackoverflow.com/users/21194134/afsal-p?tab=profile)
 
 ## Tasks
 
