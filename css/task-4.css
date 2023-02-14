@@ -87,6 +87,10 @@ body {
   font-size: 20px;
   color: #fff;
 }
+#circle-container, 
+#tile-container { 
+  display: flex;
+}
 .tile {
   width: calc(((100%) / 4) - 15px);
   height: 150px;
