@@ -30,6 +30,9 @@ body {
   color: red;
 }
 @media only screen and (max-width: 850px) {
+  .main{
+    margin-top: 150px;
+  }
   .main a {
     display: block;
     height: auto;
