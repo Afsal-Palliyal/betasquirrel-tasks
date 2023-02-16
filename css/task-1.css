@@ -71,3 +71,14 @@ div {
   color: red;
   padding: 20px;
 }
+@media only screen and (max-width: 870px) {
+  .right a {
+    display: none;
+  }
+  .boxes,
+  #main-container,
+  #navbar {
+    width: 100%;
+    height: auto;
+  }
+}
