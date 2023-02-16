@@ -59,6 +59,10 @@ Read the below links and attend exercises.
 5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
 6. `git pull` - Pull updates your current local working branch. Ex: `git pull new-folder`
 7. `git reset --hard` - To remove the changes except folders.
+8. `git status` - to see the current changes as list.
+9. `git diff` - see the changes on each file.
+10. `git log` - see commit history.
+11. `git stash` - stash your uncommitted changes.
 
 ## Task 5
 
