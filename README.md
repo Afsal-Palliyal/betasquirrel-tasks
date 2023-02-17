@@ -4,7 +4,7 @@ Assignments from betasquirrel
 
 ## Live Demo
 
-- [Task View](https://afsal-palliyal.github.io/betasquirrel-tasks/)
+- [TasksView](https://afsal-palliyal.github.io/betasquirrel-tasks/)
 
 ## Websites
 
