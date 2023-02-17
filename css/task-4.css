@@ -100,8 +100,8 @@ body {
 }
 .circle,
 .chart {
-  width: calc(((100%) / 4) - 15px);
-  height: 307.3px;
+  width: calc(((100vw) / 4) - 15px);
+  height: calc((100vw - 300px) / 4);
   float: left;
   margin-right: 15px;
 }
