@@ -71,7 +71,7 @@ div {
   color: red;
   padding: 20px;
 }
-@media only screen and (max-width: 870px) {
+@media only screen and (max-width: 650px) {
   .right a {
     display: none;
   }
@@ -80,5 +80,18 @@ div {
   #navbar {
     width: 100%;
     height: auto;
+  }
+}@media only screen and (max-width: 900px) and (min-width: 651px) {
+  .first,
+  #main-container,
+  #navbar {
+    width: 100%;
+    height: auto;
+  }
+  .second,
+  .third {
+    width: calc((100% / 2) - 35px);
+    margin-left: 15px;
+    margin-right: 0;
   }
 }
