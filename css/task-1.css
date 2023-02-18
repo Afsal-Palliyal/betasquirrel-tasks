@@ -85,13 +85,11 @@ div {
   .first,
   #main-container,
   #navbar {
-    width: 100%;
+    width: 98%;
     height: auto;
   }
   .second,
   .third {
-    width: calc((100% / 2) - 35px);
-    margin-left: 15px;
-    margin-right: 0;
+    width: calc((100% / 2) - 28px);
   }
 }
