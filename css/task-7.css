@@ -1,0 +1,95 @@
+body {
+    margin: 0 auto;
+}
+#navbar {
+    height: 70px;
+    border-bottom: 2px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left {
+    float: left;
+    display: flex;
+}
+.right {
+    float: right;
+    display: flex;
+    align-self: center;
+}
+.right img {
+    height: 50px;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+.left img {
+    height: 50px;
+    margin-top: 7px;
+    margin-left: 40px;
+    margin-right: 5px;
+}
+.left h2 {
+    display: inline;
+    color: gray;
+}
+.main {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#sidebar {
+    height: calc(100vh - 72px);
+    float: left;
+    width: 200px;
+    border-right: 2px solid gray;
+}
+.side {
+    padding: 20px;
+    line-height: 25pt;
+}
+.side nav a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+#container {
+    padding: 4px 40px 15px 50px;
+    overflow: hidden;
+    line-height: 22pt;
+}
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head a {
+    text-decoration: none;
+    color: #fff;
+    padding: 3px 15px;
+    background-color: #3BB989;
+    
+}
+span h3 {
+    text-decoration: underline;
+    font-weight: normal;
+}
+table,
+th,
+td {
+  border: 1px solid lightgrey;
+  border-collapse: collapse;
+}
+th, td {
+    text-align: left;
+    padding: 20px;
+}
+table {
+    width: 100%;
+}
+@media only screen and (max-width: 1000px) {
+    #sidebar {
+        display: none;
+    }
+    #table {
+        overflow: auto;
+    }
+    th, td {
+        padding: 15px;
+    }
+}

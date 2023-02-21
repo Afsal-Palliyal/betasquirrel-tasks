@@ -19,6 +19,30 @@ Assignments from betasquirrel
 | ![Task 1](images/task-1.jpg) | ![Output 1](images/out-1.png) |
 | ![Task 2](images/task-2.jpg) | ![Output 2](images/out-2.png) |
 | ![Task 4](images/task-4.jpg) | ![Output 4](images/out-4.png) |
+| ![Task 6](images/task-6.jpg) | ![Output 6](images/out-6.png) |
+| ![Task 7](images/task-7.jpg) | ![Output 7](images/out-7.png) |
+
+
+## Linux Commands
+
+- `cd` - Change current directory. Ex: `cd Desktop`, `cd ..`
+- `ls` - List contents of a directory. Ex: `ls -a` lists hidden files as well.
+- `pwd` - Display current working directory path.
+- `cat` - Display contents of a file. Ex: `cat README.md`
+
+## Git Commands
+
+1. `git config` - Configure git user. Ex: `git config --global user.name "Afsal-Palliyal"`, `git config  --global user.email "palliyalafsal@gmail.com"`
+2. `git clone` - Clone a remote git repo to your local. Ex: `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git`, `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git new-folder`
+3. `git add` - Add your file changes to git. Ex: `git add .`, `git add README.md`
+4. `git commit` - Commit changes to git. Ex: `git commit -m "Initial commit"
+5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
+6. `git pull` - Pull updates your current local working branch. Ex: `git pull new-folder`
+7. `git reset --hard` - To remove the changes except folders.
+8. `git status` - To see the current changes as list.
+9. `git diff` - See the changes on each file.
+10. `git log` - See commit history.
+11. `git stash` - Stash your uncommitted changes.
 
 ## Task 3
 
@@ -42,27 +66,6 @@ Read the below links and attend exercises.
 - [HTML Images](https://www.w3schools.com/html/html_images.asp)
 - [HTML Id](https://www.w3schools.com/html/html_id.asp)
 - [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
-
-## Linux Commands
-
-- `cd` - Change current directory. Ex: `cd Desktop`, `cd ..`
-- `ls` - List contents of a directory. Ex: `ls -a` lists hidden files as well.
-- `pwd` - Display current working directory path.
-- `cat` - Display contents of a file. Ex: `cat README.md`
-
-## Git Commands
-
-1. `git config` - Configure git user. Ex: `git config --global user.name "Afsal-Palliyal"`, `git config  --global user.email "palliyalafsal@gmail.com"`
-2. `git clone` - Clone a remote git repo to your local. Ex: `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git`, `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git new-folder`
-3. `git add` - Add your file changes to git. Ex: `git add .`, `git add README.md`
-4. `git commit` - Commit changes to git. Ex: `git commit -m "Initial commit"
-5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
-6. `git pull` - Pull updates your current local working branch. Ex: `git pull new-folder`
-7. `git reset --hard` - To remove the changes except folders.
-8. `git status` - To see the current changes as list.
-9. `git diff` - See the changes on each file.
-10. `git log` - See commit history.
-11. `git stash` - Stash your uncommitted changes.
 
 ## Task 5
 
