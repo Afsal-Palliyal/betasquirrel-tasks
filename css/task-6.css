@@ -75,6 +75,7 @@ span {
 }
 .padd {
   padding: 10px 15px;
+  border: 1px solid #555;
 }
 .maright {
   margin-right: 20px;
@@ -100,6 +101,7 @@ span {
 }
 .addr {
   padding: 10px;
+  border: 1px solid #555;
 }
 .set {
   padding: 15px 50px;
@@ -113,7 +115,8 @@ span {
 }
 @media only screen and (max-width: 767px) {
   #container {
-    margin-right: 40px;
+    padding: 30px;
+    padding-bottom: 0;
   }
   #sidebar {
     display: none;
@@ -123,7 +126,7 @@ span {
     display: block;;
   }
   .padd {
-    padding: 10px 15px;
+    padding: 10px;
     width: 100%;
   }
   .button {
@@ -132,16 +135,17 @@ span {
   .maright {
     margin-bottom: 10px;
   }
-  .firstname, .lastname, .mobile, .email, .branch, .hostel {
+  .firstname, .lastname, .mobile, .email, .branch, .hostel, .addr {
     display: block;
-  }
-  .firstname, .lastname, .mobile, .email, .branch, .hostel {
-    width: calc(100% - 50px);
+    width: calc(100% - 22px);
   }
 }
 @media only screen and (max-width: 991px) and (min-width: 768px) {
   #container {
     margin-right: 40px;
+  }
+  #sidebar {
+    height: 100vh;
   }
   .firstname, .lastname, .mobile, .email, .branch {
     width: 40%;
