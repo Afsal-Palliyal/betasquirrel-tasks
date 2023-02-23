@@ -90,7 +90,7 @@ span {
   margin-left: 60%;
 }
 .pad {
-  padding: 0 50px;
+  padding: 0 50px 0 0;
 }
 .top {
   margin-top: 8px;
@@ -111,12 +111,31 @@ span {
 .color {
   background-color: #3ABA8A;
 }
-@media only screen and (max-width: 1145px) {
+@media only screen and (max-width: 767px) {
   #container {
     margin-right: 40px;
   }
   #sidebar {
     display: none;
+  }
+  .pad {
+    padding: 0;
+    display: block;;
+  }
+  .padd {
+    padding: 10px 15px;
+    width: 100%;
+  }
+  .button {
+    margin: 20px;
+  }
+  .maright {
+    margin-bottom: 10px;
+  }
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  #container {
+    margin-right: 40px;
   }
   .pad {
     padding: 0;
