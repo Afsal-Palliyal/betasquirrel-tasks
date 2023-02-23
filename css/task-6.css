@@ -66,15 +66,15 @@ span {
   display: flex;
   flex-direction: column;
 }
-.firstname, .lastname, .mobile, .email, .branch, .hostel {
-  width: 400px;
+.firstname, .lastname, .mobile, .email, .branch {
+  width: 32%;
 }
 .firstname, .mobile, .branch {
   float: left;
   margin-right: 12%;
 }
 .padd {
-  padding: 10px 200px 10px 15px;
+  padding: 10px 15px;
 }
 .maright {
   margin-right: 20px;
@@ -87,10 +87,10 @@ span {
   margin-bottom: 10px;
 }
 .button {
-  margin-left: 60%;
+  margin-left: 50%;
 }
 .pad {
-  padding: 0 50px 0 0;
+  padding-right: 4%;
 }
 .top {
   margin-top: 8px;
@@ -131,6 +131,12 @@ span {
   }
   .maright {
     margin-bottom: 10px;
+  }
+  .firstname, .lastname, .mobile, .email, .branch, .hostel {
+    display: block;
+  }
+  .firstname, .lastname, .mobile, .email, .branch, .hostel {
+    width: calc(100% - 50px);
   }
 }
 @media only screen and (max-width: 991px) and (min-width: 768px) {
