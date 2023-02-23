@@ -11,12 +11,12 @@ body {
 }
 #main-container {
   background-color: #c9cee0;
-  height: 200px;
+  height: auto;
   margin-bottom: 15px;
 }
 .boxes {
   background-color: #c9cee0;
-  height: 200px;
+  height: auto;
   width: calc((100% / 3) - 30px);
   float: left;
   margin-bottom: 15px;
@@ -71,22 +71,17 @@ div {
   color: red;
   padding: 20px;
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 767px) {
   .right a {
     display: none;
   }
-  .boxes,
-  #main-container,
-  #navbar {
-    width: 100%;
-    height: auto;
+  .boxes {
+    width: calc(100% - 20px);
   }
-}@media only screen and (max-width: 900px) and (min-width: 651px) {
-  .first,
-  #main-container,
-  #navbar {
-    width: 98%;
-    height: auto;
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .first {
+    width: calc(100% - 20px)
   }
   .second,
   .third {
