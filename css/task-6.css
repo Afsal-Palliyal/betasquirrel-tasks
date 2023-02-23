@@ -143,6 +143,9 @@ span {
   #container {
     margin-right: 40px;
   }
+  .firstname, .lastname, .mobile, .email, .branch {
+    width: 40%;
+  }
   .pad {
     padding: 0;
     display: block;;
