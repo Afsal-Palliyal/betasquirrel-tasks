@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="icon" href="images/logo6.png">
+    <link rel="stylesheet" href="css/form.css" />
+  </head>
+  <body>
+    <div id="navbar">
+        <div class="left">
+          <img src="images/logo6.png" alt="OneSchoolLogo" />
+          <h2>One School</h2>
+        </div>
+        <div class="right">
+          <img src="images/profile.png" alt="Image" />
+        </div>
+      </div>
+      <div class="main">
+        <div id="sidebar">
+          <div class="side">
+            <nav>
+              <a href="#" class="flex">
+                <img src="images/student.png" alt="student" />
+                STUDENTS
+              </a>
+              <a href="#" class="flex">
+                <img src="images/staff.png" alt="staff" />
+                STAFF
+              </a>
+              <a href="#" class="flex">
+                <img src="images/exam.png" alt="exam" />
+                EXAMS
+              </a>
+            </nav>
+          </div>
+        </div>
+        <div id="container">
+            <h3>STUDENT REGISTRATION</h3>
+            <form action="">
+                <div class="firstname">
+                <label for="first-name">First Name <span>*</span> :</label>    
+                <input type="text" name="first-name" id="first-name" placeholder="Enter your first name" class="padd">          
+            </div>
+            <div class="lastname marg">
+              <label for="last-name">Last Name <span>*</span> :</label> 
+              <input type="text" name="last-name" id="last-name" placeholder="Enter your last name" class="padd">
+            </div>
+            <div class="mobile">
+                <label for="mobile">Mobile <span>*</span> :</label>    
+                <input type="tel" name="mobile" id="mobile" placeholder="Enter your mobile number" class="padd">          
+              
+            </div>
+            <div class="email marg">
+              <label for="email">Email <span>*</span> :</label> 
+              <input type="email" name="email" id="email" placeholder="Enter your email" class="padd">
+            </div>
+            <div class="branch">
+                <label for="branch">Branch <span>*</span> :</label> 
+                <select name="branch" id="branch" class="padd">
+                  <option value="">Select branch you like</option>
+                  <option value="cse">Cse</option>
+                  <option value="mechanical">Mechanical</option>
+                  <option value="civil">Civil</option>
+              </select>                          
+            </div>
+            <div class="hostel marg">
+            <label for="">Do You Need Hostel facility :</label> 
+            <div>
+            <label for="" class="rad"><input type="radio" value="Yes">Yes</label>
+            <label for=""><input type="radio" value="No">No</label>
+          </div>
+            </div>
+            <div>
+                <label for="additiional">Choose Additional Subjects :</label>
+                <div class="marg top">
+                <label for="" class="pad"><input type="checkbox" class="check">Cyber Security</label>
+                <label for="" class="pad"><input type="checkbox" class="check">Artificial Intelligence</label>
+                <label for="" class="pad"><input type="checkbox" class="check">Blockchain</label>
+                <label for="" class="pad"><input type="checkbox" class="check">IoT</label>
+                <label for=""><input type="checkbox" class="check">Robotics</label>
+              </div>
+            </div>
+            <div>
+                <label for="address">Permanent Address <span>*</span> :</label>
+                <div>
+                  <textarea name="address" id="address" cols="60" rows="8" placeholder="Enter your full address" class="addr"></textarea>
+                </div>
+            </div>
+            <div class="button">
+                <input type="reset" name="clear" id="clear" value="CLEAR" class="maright set">
+                <input type="submit" value="SUBMIT" class="set color">
+            </div>
+            </form>
+        </div>
+        </div>
+  </body>
+</html>

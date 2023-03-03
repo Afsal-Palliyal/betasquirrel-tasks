@@ -19,8 +19,8 @@ Assignments from betasquirrel
 | ![Task 1](images/task-1.jpg) | ![Output 1](images/out-1.png) |
 | ![Task 2](images/task-2.jpg) | ![Output 2](images/out-2.png) |
 | ![Task 4](images/task-4.jpg) | ![Output 4](images/out-4.png) |
-| ![Task 6](images/task-6.jpg) | ![Output 6](images/out-6.png) |
-| ![Task 7](images/task-7.jpg) | ![Output 7](images/out-7.png) |
+| ![Form](images/form.jpg)     | ![Output 6](images/out-f.png) |
+| ![Task 6](images/task-6.jpg) | ![Output 7](images/out-6.png) |
 
 
 ## Linux Commands
