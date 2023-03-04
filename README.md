@@ -12,6 +12,11 @@ Assignments from betasquirrel
 - [Linkedin](https://www.linkedin.com/in/afsal-p-28775225a)
 - [Stack Overflow](https://stackoverflow.com/users/21194134/afsal-p?tab=profile)
 
+## Figma Design
+
+- [Carwash Desktop](https://www.figma.com/file/KAq4DS65aXU0EtZ6bDq0bM/Car-wash-website-desktop?node-id=0%3A1&t=NeT8wGxIdmyV6JrD-1)
+- [Carwash Mobile](https://www.figma.com/file/B2ThnNA3ck9XfAvfVtPgAk/Car-wash-website-mobile?node-id=0%3A1&t=V7xQNsnvVC7dr5c2-1)
+
 ## Tasks
 
 | Requirements                 | Output                        |
