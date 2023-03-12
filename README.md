@@ -89,6 +89,23 @@ Read the below links and attend exercises.
 - [CSS Table Style](https://www.w3schools.com/css/css_table_style.asp)
 - [CSS Table Responsive](https://www.w3schools.com/css/css_table_responsive.asp)
 
+## JavaScript
+
+- [JS HOME](https://www.w3schools.com/js/default.asp)
+- [JS Introduction](https://www.w3schools.com/js/js_intro.asp)
+- [JS Where To](https://www.w3schools.com/js/js_whereto.asp)
+- [JS Output](https://www.w3schools.com/js/js_output.asp)
+- [JS Statements](https://www.w3schools.com/js/js_statements.asp)
+- [JS Syntax](https://www.w3schools.com/js/js_syntax.asp)
+- [JS Comments](https://www.w3schools.com/js/js_comments.asp)
+- [JS Variables](https://www.w3schools.com/js/js_variables.asp)
+- [JS Let](https://www.w3schools.com/js/js_let.asp)
+- [JS Const](https://www.w3schools.com/js/js_const.asp)
+- [JS Operators](https://www.w3schools.com/js/js_operators.asp)
+- [JS Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
+- [JS Assignment](https://www.w3schools.com/js/js_assignment.asp)
+- [JS Data Types](https://www.w3schools.com/js/js_datatypes.asp)
+
 ## Notes
 
 - `rm -rf filename` - remove the file.
