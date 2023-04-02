@@ -106,6 +106,27 @@ Read the below links and attend exercises.
 - [JS Assignment](https://www.w3schools.com/js/js_assignment.asp)
 - [JS Data Types](https://www.w3schools.com/js/js_datatypes.asp)
 
+## PHP
+
+- [PHP Intro](https://www.w3schools.com/php/php_intro.asp)
+- [PHP Install](https://www.w3schools.com/php/php_install.asp)
+- [PHP Syntax](https://www.w3schools.com/php/php_syntax.asp)
+- [PHP Comments](https://www.w3schools.com/php/php_comments.asp)
+- [PHP Variables](https://www.w3schools.com/php/php_variables.asp)
+- [PHP Echo/Print](https://www.w3schools.com/php/php_echo_print.asp)
+- [PHP Data Types](https://www.w3schools.com/php/php_datatypes.asp)
+- [PHP Strings](https://www.w3schools.com/php/php_string.asp)
+- [PHP Numbers](https://www.w3schools.com/php/php_numbers.asp)
+- [PHP Math](https://www.w3schools.com/php/php_math.asp)
+- [PHP Constants](https://www.w3schools.com/php/php_constants.asp)
+- [PHP Operators](https://www.w3schools.com/php/php_operators.asp)
+- [PHP If...Else...Elseif](https://www.w3schools.com/php/php_if_else.asp)
+- [PHP Switch](https://www.w3schools.com/php/php_switch.asp)
+- [PHP Loops](https://www.w3schools.com/php/php_looping.asp)
+- [PHP Functions](https://www.w3schools.com/php/php_functions.asp)
+- [PHP Arrays](https://www.w3schools.com/php/php_arrays.asp)
+- [PHP Superglobals](https://www.w3schools.com/php/php_superglobals.asp)
+
 ## Notes
 
 - `rm -rf filename` - remove the file.
