@@ -27,7 +27,6 @@ Assignments from betasquirrel
 | ![Form](images/form.jpg)     | ![Output 6](images/out-f.png) |
 | ![Task 6](images/task-6.jpg) | ![Output 7](images/out-6.png) |
 
-
 ## Linux Commands
 
 - `cd` - Change current directory. Ex: `cd Desktop`, `cd ..`
@@ -138,4 +137,20 @@ Read the below links and attend exercises.
 - `server`-GoDaddy,AWS,GCP,Azure - Cloud/Hosting Provider.
 - `IP address` - Purchase domain from domain registar.
 
+## Laravel
 
+- `php artisan serve` - for running view page in laravel.
+- `php artisan make:controller StudentController` - for making a controller called StudentController.
+- `compact` - for directing from controller(app\http) to view(resourses).
+- `route` - called as reverse routing ie instead of using url helper fn give name to route and use it.
+- `php artisan make:migration create_users_table --create=users` - for creating data's to database.
+- `php artisan migrate` - for pushing it to database.
+- `php artisan migrate:rollback` - for further changes deleting existing data's onetime ie go to one step backwards.
+- `php artisan migrate:fresh` - for further changes deleting all the existing data's from database.
+- `php artisan make:migration alter_users_table --table=users` - for altering or changing any data.
+- `php artisan make:seeder UserTableSeeder` - create a seeder named UserTableSeeder.
+- `php artisan db:seed` - for putting values, it is possible with $this->call(UserTableSeeder::class) in DatabaseSeeder.
+- `php artisan db:seed --class=UserTableSeeder` - without $this->call(UserTableSeeder::class) in DatabaseSeeder.
+- `php artisan migrate --seed` - for doing both migration and seeding simultaneously with $this->call(UserTableSeeder::class) in DatabaseSeeder.
+- `$users = User::all();` - for fetching all the data from database.
+- `$users = User::find(67);` - for fetching the 67th id data from database.
