@@ -17,11 +17,13 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
-    protected $fillable = [
-        'name',
-        'email',
-        'password',
-    ];
+    protected $guarded = [];
+
+    // protected $dates = ['date_of_birth'];
+
+    public function setDateOfBirthAttribute($value){
+        $this->attributes['date_of_birth'] = date('Y-m-d', strtotime($value));
+    }
 
     /**
      * The attributes that should be hidden for serialization.
@@ -31,7 +33,14 @@ class User extends Authenticatable
     protected $hidden = [
         'password',
         'remember_token',
+        'id'
     ];
+
+    // public function getDateOfBirthFormatedAttributeA() {
+    //     return date('d-M-Y',strtotime($this->date_of_birth));
+    // }
+
+    // protected $appends = ['date_of_birth_formated'];
 
     /**
      * The attributes that should be cast.

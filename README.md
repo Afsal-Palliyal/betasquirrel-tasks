@@ -141,7 +141,7 @@ Read the below links and attend exercises.
 
 - `php artisan serve` - for running view page in laravel.
 - `php artisan make:controller StudentController` - for making a controller called StudentController.
-- `compact` - for directing from controller(app\http) to view(resourses).
+- `compact` - for directing from controller(app\http) to view(resources).
 - `route` - called as reverse routing ie instead of using url helper fn give name to route and use it.
 - `php artisan make:migration create_users_table --create=users` - for creating data's to database.
 - `php artisan migrate` - for pushing it to database.
